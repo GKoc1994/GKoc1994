@@ -17,7 +17,7 @@ turning unclear business problems into clear requirements and reliable, well-tes
 
 | Project | What it does | Tech |
 |---|---|---|
-| **[AI PreCheck for building-permit applications](https://github.com/GKoc1994/hackathon_2026)** 🏆 |Building permits often stall over small inconsistencies in the submitted documents. An LLM reads the files, a rule layer checks them. 1st place, Startplatz Köln Hackathon 2026 (Harness Engineering Track). Currently in validation as a product. | LangGraph, OpenAI, FastAPI, Next.js, pytest, Playwright |
+| **[AI PreCheck for building-permit applications](https://github.com/GKoc1994/hackathon_2026)** 🏆 |Building permits often stall over small inconsistencies in the submitted documents. An LLM reads the files, a rule layer checks them. 2nd place, Startplatz Köln Hackathon 2026 (Harness Engineering Track). Currently in validation as a product. | LangGraph, OpenAI, FastAPI, Next.js, pytest, Playwright |
 | **[Fake or Real Wiki](https://github.com/GKoc1994/fake-or-real-wiki)** | Quiz game: an LLM generates real-but-curious and convincingly fake Wikipedia titles; every candidate is verified live against the Wikipedia API to filter out hallucinations. | Python, OpenAI API, Wikipedia API, Rich |
 | **[AI Newsletter Agent (n8n)](https://github.com/GKoc1994/ai-newsletter-agent-n8n)** | Weekly agent for a garden centre: ranks top-selling categories with seasonal weighting and writes a newsletter as structured JSON, with whitelist guardrails and human approval. | n8n, GPT-5-mini, JavaScript, Gmail |
 | **[StayTax](https://github.com/GKoc1994/staytax)** | Accommodation-tax automation for Airbnb hosts in Germany: booking screenshot → AI extraction → tax calculation → payment link → compliance dashboard. | Base44, AI document extraction |
